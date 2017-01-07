@@ -1,0 +1,7 @@
+pinLayout:
+  powerIncrement: 5
+  powerDecrement: 6
+  launch: 26
+  channel: 13
+  mode: 19
+  operation: 400ms
